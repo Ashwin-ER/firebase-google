@@ -6,7 +6,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/11.4.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB9cq8Ggd276w519uaKwNNqIR9wHJw_wc8",
+  apiKey: "*********************************",
   authDomain: "login-52dad.firebaseapp.com",
   projectId: "login-52dad",
   storageBucket: "login-52dad.firebasestorage.app",
